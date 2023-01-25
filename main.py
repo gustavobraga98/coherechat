@@ -1,7 +1,5 @@
 from tkinter import *
 from backend import *
-# f9db7zxVAPz6ISFEUjqMydTXdg2AqzDCAQ6ojfyR
-# txt.insert(END, "\n" + "Bot -> Hi there, how can I help?")
 LOGINSUCESS = False
 
 while LOGINSUCESS == False:
